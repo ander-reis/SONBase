@@ -1,5 +1,5 @@
 {
-    "name": "wesleywillians/son-base",
+    "name": "ander-reis/son-base",
     "description": "Base para modulos em ZF 2 da School of Net",
     "type": "library",
     "license": "MIT",
@@ -17,6 +17,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
+        "zendframework/zendframework": "~2.5",
        "doctrine/doctrine-orm-module": "0.8.0"
     },
     "autoload": {
